@@ -1,4 +1,8 @@
-## Hello World, I'm Sara — be very welcome! 👋
+<h1 align="center"> 👋 Hello World, I'm Sara — be very welcome!! </h1> 
+<p align="center"><i>Desenvolvedora Full Stack | Tecnólogo em Análise e Desenvolvimento de Sistemas </i></p>
+
+---
+
 
 👩‍💻 Oi! Sou apaixonada por tecnologia e estou sempre em busca de aprender e evoluir. No momento, estou focada no front-end, estudando **HTML**, **CSS** e **JavaScript** para criar interfaces bonitas, acessíveis e funcionais.
 
