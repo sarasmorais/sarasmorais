@@ -36,6 +36,7 @@
 </div>
 
 <div align="center">
+  
 ![snake gif](https://github.com/sarasmorais/sarasmorais/blob/main/github-contribution-grid-snake.svg)
 </div>
 
