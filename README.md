@@ -16,7 +16,6 @@
 
 <div align="center">
   <a href="https://github.com/sarasmorais">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarasmorais&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sara's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasmorais&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
